@@ -1,6 +1,6 @@
 //----input values----
 
-    var length = 50 //desired number of colors in the colorscale. Default is 10
+    var length = 10 //desired number of colors in the colorscale. Default is 10
     var gamma = 2.2 //defines the curve of luminance from dark to light. Default, as per human perception, is 2.2
     var lowestLum = 0.007; //lowest desired luminance. Default is 0.007
     var highestLum = 0.9; //highest desired luminance. Default is 0.9
